@@ -27,3 +27,5 @@ To run the project,
 In a terminal, type cd server-> node .\app.js 
 Split the terminal and type cd malarias->python app.py 
 Split the terminal and type cd client->cd src->npm start
+
+(The cell images have been taken from National Library of Medicine(thin smears))
