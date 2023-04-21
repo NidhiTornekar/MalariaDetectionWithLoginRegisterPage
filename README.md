@@ -18,6 +18,8 @@ TWILIO_PHONE_NUMBER=give your Twilio account Phone number
 
 Also, node modules are to be added in client and server folders.
 
+Change the path of the model in app.py
+
 To run the project, 
 In a terminal, type cd server-> node .\app.js 
 Split the terminal and type cd malarias->python app.py 
