@@ -1,6 +1,8 @@
 THE CLIENT FILES AND FOLDERS CAN BE ACCESSED USING THE LINK GIVEN BELOW  
 https://github.com/NidhiTornekar/MalariaDetectionWithLoginRegisterPageClient.git
 
+https://github.com/NidhiTornekar/MalariaDetectionWithLoginRegisterPage/assets/121748841/a0f97e6f-8d3a-45c3-8e4f-da250c8a230d
+
 This project contains a register and login page made using MERN Stack . 
 Also OTP verification is available for both email(using nodemailer) and phone number(using twilio). 
 The user is redirected to a predict page, where he can upload a cell image and a CNN Model predicts if it is Parasitized or Uninfected(with Malaria). 
